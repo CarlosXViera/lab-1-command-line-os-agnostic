@@ -16,7 +16,9 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
-Code  Desktop  Documents  Downloads  Movies  Music  Pictures  textfile.txt
+Code       Music     house              mtec1002-lab-03.tar     sample-zip-file.zip  x-key.pem
+Desktop    Pictures  image.jpg          mtec1002-lab-03.tar.gz  sample.txt           your-guide-to-the-culturally-appropriative-tea-lizard-meme
+Documents  Videos    media-computation  pkgs_auto.lst           test_dump.sql
 
 
 ==========
@@ -26,7 +28,7 @@ $ ls D<TAB>
 
 What happens?  Describe it below.
 ----------
-Desktop/    Documents/  Downloads/
+Desktop/    Documents/
 
 
 ==========
